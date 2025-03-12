@@ -1,0 +1,36 @@
+span {
+  margin-inline: 600px;
+}
+
+.text {
+  text-align: center;
+}
+
+.margin {
+  margin-inline: 400px;
+}
+.red {
+  color: rgb(236, 10, 10);
+  font-size: 14px;
+}
+
+h2 {
+  background-color: rgb(236 215 96 / 36%);
+  font-size: 20px;
+  padding: 12px;
+}
+
+h3 {
+  font-size: small;
+}
+
+.bold {
+  font-weight: bold;
+}
+.p1 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: medium;
+}
+.border {
+  border-bottom: solid;
+}
